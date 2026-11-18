@@ -1,0 +1,15 @@
+Simple and Explicit Formulas for the Friction Factor in Turbulent Pipe Flow 
+S. E. Haaland
+https://doi.org/10.1115/1.3240948
+
+
+Shah, R. K., and London, A. L. (1978). Laminar Flow Forced Convection in Ducts: A Source Book for Compact Heat Exchanger Analytical Data
+
+Darcy–Weisbach equation. Standard fluid mechanics relation, e.g., Çengel and Cimbala, Fluid Mechanics: Fundamentals and Applications
+
+An Overview of Thermal and Mechanical Design, Control, and Testing of the World’s
+Most Powerful and Fastest Supercomputer by Anil Yuksel
+
+Burden and Faires. Numerical Analysis. -->	Bisection root-finding algorithm
+
+Idelchik, I. E. Handbook of Hydraulic Resistance   --> Minor-loss coefficients for entrances, exits, bends, and contractions
